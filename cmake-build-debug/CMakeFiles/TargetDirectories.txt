@@ -1,0 +1,3 @@
+C:/Users/gxbyc/source/labar20/cmake-build-debug/CMakeFiles/labar20.dir
+C:/Users/gxbyc/source/labar20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gxbyc/source/labar20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
